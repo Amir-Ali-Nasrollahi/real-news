@@ -15,11 +15,3 @@ const welcome = reactive('welcome to the home page on this website')
   </main>
 </template>
 
-<style>
-.hello {
-  background-color: aqua;
-  color: black;
-  padding: 10px;
-  font-size: 30px;
-}
-</style>
